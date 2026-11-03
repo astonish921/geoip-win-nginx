@@ -1,0 +1,13 @@
+{
+  "accountId": "XXX",
+  "licenseKey": "XXX",
+  "nginxService": "XXX",
+  "nginxDir": "C:/websoft/fa_all_in_one/xampp/nginx",
+  "dataDir": "C:/websoft/fa_all_in_one/xampp/nginx/geoip",
+  "mode": "AllowOnly",
+  "countries": ["CN", "HK", "MO", "TW" ],
+  "alwaysAllow": [ "203.0.113.10/32" ],
+  "keepSnapshots": 6,
+  "minNetworks": 200,
+  "skipMmdb": false
+}
